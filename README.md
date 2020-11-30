@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/61001656/100558493-0c9ca900-32f2-11eb-9a42-c16be238a11b.jpg" height="300" width="100%"></br>
 # What is knowledge-store?
 공부하면서 당장 이해가 가지 않거나, 보고도 까먹는다거나, 다음에 또 보고싶은 자료들을 모아놓은 곳입니다. </br>
 </br>
