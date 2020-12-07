@@ -8,3 +8,4 @@
 
 ## JavaScript
 * <a href="https://medium.com/@lydiahallie/javascript-visualized-promises-async-await-a3f1aad8a943" >그림으로 Promise와 Event Loop 관계 이해하기</a>
+* <a href="https://medium.com/sjk5766/async-await-원리-cc643f18526d" >async await 원리 이해하기</a>
