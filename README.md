@@ -11,4 +11,4 @@
 * <a href="https://medium.com/sjk5766/async-await-원리-cc643f18526d" >async await 원리 이해하기</a>
 
 ## Tool
-* <a href="https://www.erdcloud.com/" >ERD Cloude</a>
+* <a href="https://www.erdcloud.com/" >ERD Cloud</a>
