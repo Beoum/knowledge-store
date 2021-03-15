@@ -11,6 +11,9 @@
 * <a href="https://medium.com/sjk5766/async-await-원리-cc643f18526d" >async await 원리 이해하기</a>
 * <a href="https://deepu.tech/memory-management-in-v8/" >V8 엔진의 GC</a>
 
+## Http
+* <a href="https://restfulapi.net/resource-naming/" >REST API Naming 가이드</a>
+
 ## Docker
 * <a href="https://www.44bits.io/ko/post/easy-deploy-with-docker" >도커 입문편 컨테이너 기초부터 서버 배포까지</a>
 
