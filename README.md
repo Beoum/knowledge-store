@@ -14,6 +14,9 @@
 ## Http
 * <a href="https://restfulapi.net/resource-naming/" >REST API Naming 가이드</a>
 
+## Git
+* <a href="https://velog.io/@outstandingboy/Git-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EA%B7%9C%EC%95%BD-%EC%A0%95%EB%A6%AC-the-AngularJS-commit-conventions" >the AngularJS commit conventions 번역본</a>
+
 ## Docker
 * <a href="https://www.44bits.io/ko/post/easy-deploy-with-docker" >도커 입문편 컨테이너 기초부터 서버 배포까지</a>
 
