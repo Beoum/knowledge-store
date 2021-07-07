@@ -20,5 +20,8 @@
 ## Docker
 * <a href="https://www.44bits.io/ko/post/easy-deploy-with-docker" >도커 입문편 컨테이너 기초부터 서버 배포까지</a>
 
+## Methodology
+* <a href="https://johngrib.github.io/wiki/law-of-demeter/" >디미터 법칙</a>
+
 ## Tool
 * <a href="https://www.erdcloud.com/" >ERD Cloud</a>
