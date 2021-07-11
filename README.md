@@ -22,6 +22,3 @@
 
 ## Methodology
 * <a href="https://johngrib.github.io/wiki/law-of-demeter/" >디미터 법칙</a>
-
-## Tool
-* <a href="https://www.erdcloud.com/" >ERD Cloud</a>
